@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adriabelem
-- 👀 I’m interested in Front end
-- 🌱 I’m currently learning ADS
+- 👀 I’m interested in Front end e analise de dados.
+- 🌱 I’m currently learning Análise e desenvolvimento de sistemas
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
