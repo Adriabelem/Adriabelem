@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Adriabelem
-- 👀 I’m interested in Front end e analise de dados.
-- 🌱 I’m currently learning Análise e desenvolvimento de sistemas
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Hi, my name is  Ádria Belém
+- I'm a student of Systems Analysis and Development, I'm in career transition to this wonderful world of technology.
 
 <!---
 Adriabelem/Adriabelem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
